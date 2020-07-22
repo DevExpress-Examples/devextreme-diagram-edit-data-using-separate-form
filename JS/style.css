@@ -1,0 +1,9 @@
+#diagram{
+    float: left;
+    height: 600px;
+}
+#editForm{
+    float: left;
+    width: 25%;
+    padding-left: 5px;
+}
